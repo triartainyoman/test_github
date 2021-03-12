@@ -28,7 +28,6 @@ class MyHomePage extends StatelessWidget {
           children: [
             ReusableCard(icon: Icons.home, title: "Home",),
             ReusableCard(icon: Icons.share, title: "Share",),
-            ReusableCard(icon: Icons.settings, title: "Settings",),
           ],
         ),
       ),
